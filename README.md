@@ -20,3 +20,13 @@ Infine, andiamo a definire le colonne e i tipi di dato di ogni tabella.
 Utilizzare https://www.drawio.com/  o un altro tool per la creazione dello schema.
 
 Esportare quindi il diagramma in jpg e caricarlo nella repo.
+
+DB University - pt.2
+===
+Esercizio 31/01/2025
+
+## Consegna
+Dopo aver creato un nuovo database nel vostro MySQL Workbench e aver importato lo schema allegato, eseguite le query del file allegato.
+
+Cosa consegnare?
+Dopo aver testato le vostre query con MySQL Workbench, riportatele in un file txt e caricatelo nella vostra repo.
